@@ -57,8 +57,8 @@ ul,ol{list-style:none;}
   }
   .sizes {
     position: fixed;
-    right: 10px;
-    top:45px;
+    right: 20px;
+    top:10px;
   }
   .sizes > li{
     margin: 20px 0;
